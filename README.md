@@ -1,23 +1,27 @@
 # Gogaga - Discover Your Next Adventure
 
-This is a simple web application template for a travel website called **Gogaga**. The template includes a search form and hero section that allow users to explore different travel packages and tours.
+Welcome to **Gogaga**! This is a simple web application template designed for travel enthusiasts. Discover various travel packages and tours with our user-friendly interface.
+
+## Published Link
+
+You can view the live version of the website [here](https://gogaganehith.ccbp.tech).
 
 ## Features
 
-- Hero section with a background image and overlay text.
-- Navigation bar with links to Packages, Tours, Help, Membership, Gift Cards, etc.
-- Search form with options for selecting destination, check-in/check-out dates, number of nights, guests and rooms, and star rating.
-- Responsive design using Bootstrap.
+- **Hero Section**: A background image with overlay text to captivate users.
+- **Navigation Bar**: Links to Packages, Tours, Help, Membership, Gift Cards, etc.
+- **Search Form**: Allows users to select destination, check-in/check-out dates, number of nights, guests, rooms, and star rating.
+- **Responsive Design**: Built using Bootstrap for a seamless experience on any device.
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine.
+To get a copy of the project up and running on your local machine, follow these steps:
 
 ### Prerequisites
 
-- [Git](https://git-scm.com/) must be installed on your system.
-- A code editor, such as [Visual Studio Code](https://code.visualstudio.com/), that supports live server extension.
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for running the HTML file on a live server.
+- [Git](https://git-scm.com/) installed on your system.
+- A code editor such as [Visual Studio Code](https://code.visualstudio.com/).
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for Visual Studio Code to run the HTML file on a live server.
 
 ### Installation
 
